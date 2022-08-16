@@ -122,7 +122,11 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 108
+=======
+  controlID: 15
+>>>>>>> Stashed changes
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +151,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
+<<<<<<< Updated upstream
   controlID: 109
+=======
+  controlID: 16
+>>>>>>> Stashed changes
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +180,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 110
+=======
+  controlID: 17
+>>>>>>> Stashed changes
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -190,8 +202,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< Updated upstream
     width: 249.5
     height: 647.5
+=======
+    width: 380
+    height: 894
+>>>>>>> Stashed changes
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
@@ -216,8 +233,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 249.5
     y: 0
+<<<<<<< Updated upstream
     width: 956.5
     height: 647.5
+=======
+    width: 1458
+    height: 894
+>>>>>>> Stashed changes
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 12}
@@ -271,8 +293,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1206
     y: 0
+<<<<<<< Updated upstream
     width: 474
     height: 947
+=======
+    width: 722
+    height: 1307
+>>>>>>> Stashed changes
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
@@ -401,7 +428,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 62fbffff
+      m_ExpandedIDs: 62fbffff1c430000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -604,13 +631,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< Updated upstream
     - Assets/Audio Materials
+=======
+    - Assets/Scripts
+>>>>>>> Stashed changes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
+<<<<<<< Updated upstream
   - Assets/Audio Materials
+=======
+  - Assets/Scripts
+>>>>>>> Stashed changes
   m_LastFoldersGridSize: 96
   m_LastProjectPath: /Users/rileykennedy-keys/Desktop/Stalker Pulls/HorrorJam2022-Stalker/Horror
     Jam
@@ -620,7 +655,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: ea430000
     m_LastClickedID: 17386
+<<<<<<< Updated upstream
     m_ExpandedIDs: 00000000e2430000
+=======
+    m_ExpandedIDs: 00000000e243000000ca9a3b
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -675,7 +714,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000be570000424600003c45000090450000000000009c45000076450000784500000e460000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
